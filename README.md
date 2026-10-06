@@ -8,16 +8,16 @@ Soy un **ESTUDIANTE** apasionado por la creación de la automatizacion de tareas
 
 - 🌐 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
 - ⚙️ **Backend:** Node.js, PHP
+- 🗄️ **Bases de datos:** MySQL
 - ⚙️ **Lenguajes:** Java, Python, C, C++, C#  
-- 🗄️ **Bases de datos:** MySQL  
 - 🛠️ **Otras herramientas:** Git, GitHub, VS Code, VS Studio, intelij, NetBeans 
 
 ---
-
-## 📂 Algunos proyectos  
 <p align="center">
   <img src="https://encargarlexycrochet.web.app/img/logo_negativo.png" alt="Banner" width="50%"/>
 </p>
+## 📂 Algunos proyectos  
+
 - 🔗 [LexyCrochet.web](https://lexy-crochet.web.app/) – Negocio personal de crochet
 - 🔗 [encargarlexycrochet.web](https://encargarlexycrochet.web.app/) – Pagina para Agendar pedidos
 
