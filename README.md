@@ -16,6 +16,7 @@ Soy un **ESTUDIANTE** apasionado por la creación de la automatizacion de tareas
 <p align="center">
   <img src="https://encargarlexycrochet.web.app/img/logo_negativo.png" alt="Banner" width="50%"/>
 </p>
+---
 ## 📂 Algunos proyectos  
 
 - 🔗 [LexyCrochet.web](https://lexy-crochet.web.app/) – Negocio personal de crochet
